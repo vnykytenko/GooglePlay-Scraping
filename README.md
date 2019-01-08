@@ -1,4 +1,5 @@
-<h3>Scraping GooglePlay top application</h3>
-<br><b>Use:</b>
+<h2>Scraping top free and paid GooglePlay application</h3>
+
+<h3><b>Used:</b></h3>
 <br>&bull; Selenium webdriver
 <br>&bull; BeautifulSoup
